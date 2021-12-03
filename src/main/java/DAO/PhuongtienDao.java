@@ -75,7 +75,7 @@ public class PhuongtienDao {
 		EntityManager em = JpaUtils.getEntityManager();
 		
 		Phuongtien ql = em.find(Phuongtien.class, id);
-		
+	
 		return ql;
 		
 	}

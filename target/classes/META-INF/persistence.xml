@@ -5,6 +5,7 @@
 		<class>model.Xeoto</class>
 		<class>model.Phuongtien</class>
 		<class>model.Book</class>
+		<class>model.Doctor</class>
 		<properties>
 			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/jpa"/>
 			<property name="javax.persistence.jdbc.user" value="root"/>
